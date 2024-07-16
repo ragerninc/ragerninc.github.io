@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ragerninc.github.io/sitemap
+Sitemap: https://ragerninc.github.io/app/sitemap
+Sitemap: https://ragerninc.github.io/assets/sitemap
+Sitemap: https://ragerninc.github.io/css/sitemap
+Sitemap: https://ragerninc.github.io/includes/sitemap
+Sitemap: https://ragerninc.github.io/item/sitemap
+Sitemap: https://ragerninc.github.io/src/sitemap
